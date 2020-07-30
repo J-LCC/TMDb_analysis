@@ -7,3 +7,5 @@ Se estudiaran una serie de variables continuas, el presupuesto, el beneficio, la
 
 
 Durante el estudio, observaremos gráficas como las siguientes:
+![genre](https://user-images.githubusercontent.com/54073772/88911148-b3e2d400-d25d-11ea-9d19-0f46e1192878.jpg)
+![pop](https://user-images.githubusercontent.com/54073772/88910330-a24cfc80-d25c-11ea-95de-cbefcc9d08f8.jpg)

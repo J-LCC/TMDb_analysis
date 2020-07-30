@@ -19,7 +19,7 @@ Los ficheros se componen en el siguiente orden:
 
 **SEGUNDO**: Realización de un EDA, explorando las posibilidades que nos ofrece R con respecto a la visualización y filtrado de datos, en el siguiente [enlace de RPubs](https://rpubs.com/JLCC/film-industry/) se aloja el EDA completo de este mismo análisis.
 
-**TERCERO**: Un sistema de recomendaciones basado en el puntaje de las películas, el cual se encontrará también subido próximamente. EL código está completo en el fichero 3.RECOMEN.Rmd
+**TERCERO**: Un sistema de recomendaciones basado en el puntaje de las películas, el cual se encontrará también subido próximamente. El código está completo en el fichero 3.RECOMEN.Rmd
 
 
 

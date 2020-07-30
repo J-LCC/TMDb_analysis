@@ -5,6 +5,22 @@ En este proyecto, se va a analizar la base de datos de películas **TMDb**, dand
 
 Se estudiaran una serie de variables continuas, el presupuesto, el beneficio, la media de voto de las películas, las votaciones totales y la popularidad de las películas. Pero también una serie de variables categóricas, como el género de las películas, los actores, la productora, o las películas en si.
 
+### Parte 1: Análisis exploratorio de datos en R
+
+Los ficheros se componen en el siguiente orden:
+
+- 1.limpiado_inicial.R
+
+- 2.EDA.Rmd
+
+- 3.RECOMEN.Rmd
+
+**PRIMERO**: Un limpiado inicial de los datos, extraidos directamente del siguiente [fichero de Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata/).
+
+**SEGUNDO**: Realización de un EDA, explorando las posibilidades que nos ofrece R con respecto a la visualización y filtrado de datos, en el siguiente [enlance de RPubs](https://rpubs.com/JLCC/film-industry/) se aloja el EDA completo de este mismo análisis.
+
+**TERCERO**: Un sistema de recomendaciones basado en el puntaje de las películas, el cual se encontrará también subido proximamente. EL código está completo en el fichero 3.RECOMEN.Rmd
+
 
 Durante el estudio, observaremos gráficas como las siguientes:
 ![pop](https://user-images.githubusercontent.com/54073772/88911946-da553f00-d25e-11ea-89f7-4ab7017b5660.jpg)

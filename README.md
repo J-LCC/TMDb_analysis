@@ -5,7 +5,7 @@ En este proyecto, se va a analizar la base de datos de películas **TMDb**, dand
 
 Se estudiarán una serie de variables continuas, el presupuesto, el beneficio, la media de voto de las películas, las votaciones totales y la popularidad de las películas. Pero también una serie de variables categóricas, como el género de las películas, los actores, la productora, o las películas en sí.
 
-### Parte 1: Análisis exploratorio de datos en R
+### Parte 1: Análisis exploratorio de datos en R. Modelo lineal y sistema de recomendaciones
 
 Los ficheros se componen en el siguiente orden:
 

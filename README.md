@@ -13,7 +13,7 @@ Los ficheros se componen en el siguiente orden:
 
 - 2.EDA.Rmd
 
-- 3.RECOMEN.Rmd
+- 3.Sistema_recomendaciones.Rmd
 
 - 4.modelo_lineal.Rmd
 
@@ -21,7 +21,7 @@ Los ficheros se componen en el siguiente orden:
 
 **SEGUNDO**: Realización de un EDA, explorando las posibilidades que nos ofrece R con respecto a la visualización y filtrado de datos, en el siguiente [enlace de RPubs](https://rpubs.com/JLCC/film-industry/) se aloja el EDA completo de este mismo análisis.
 
-**TERCERO**: Un sistema de recomendaciones basado en el puntaje de las películas. El código está completo en el fichero 3.RECOMEN.Rmd
+**TERCERO**: Un sistema de recomendaciones basado en el puntaje de las películas. El código está completo en el fichero 3.Sistema_recomendaciones.Rmd
 
 **CUARTO**: Un modelo lineal ampliado con Ridge y Lasso para predecir el beneficio según el resto de variables continuas del estudio. El código con el modelo completo se puede encontrar en el fihcero 4.modelo_lineal.Rmd
 
